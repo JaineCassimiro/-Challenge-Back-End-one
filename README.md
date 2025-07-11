@@ -16,6 +16,7 @@ API desenvolvida para simular um fórum de discussão com funcionalidades de aut
 - Maven
 
 ---
+<img width="1905" height="937" alt="image" src="https://github.com/user-attachments/assets/95991579-5d65-4606-92b2-5b397fbbb789" />
 
 ### 🧠 Funcionalidades
 
